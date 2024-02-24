@@ -27,4 +27,4 @@ if __name__ == "__main__":
         )
     )
 
-    [print("\t {}".format(task.get("title"))) for task in total_tasks] 
+    [print("\t {}".format(task.get("title"))) for task in total_tasks]
